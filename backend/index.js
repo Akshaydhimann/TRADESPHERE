@@ -176,7 +176,7 @@ app.use(bodyParser.json());
 //       name: item.name,
 //       qty: item.qty,
 //       avg: item.avg,
-//       price: item.price,
+//       price: item.price, 
 //       net: item.net,
 //       day: item.day,
 //       isLoss: item.isLoss,
